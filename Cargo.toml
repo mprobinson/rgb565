@@ -1,0 +1,8 @@
+[package]
+
+name = "rgb565"
+version = "0.0.1"
+authors = ["Mike Robinson <mikeprobinsonuk@gmail.com>"]
+
+[dependencies.image]
+git = "https://github.com/PistonDevelopers/rust-image"

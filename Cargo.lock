@@ -1,0 +1,12 @@
+[root]
+name = "rgb565"
+version = "0.0.1"
+dependencies = [
+ "image 0.1.0 (git+https://github.com/PistonDevelopers/rust-image#80a982ebf7018b7a66a5e5dfad5c8799250be387)",
+]
+
+[[package]]
+name = "image"
+version = "0.1.0"
+source = "git+https://github.com/PistonDevelopers/rust-image#80a982ebf7018b7a66a5e5dfad5c8799250be387"
+
