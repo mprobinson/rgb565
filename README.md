@@ -10,7 +10,7 @@ Convert image file loadable by rust-image to raw headerless rgb565.
 
 Origin is top left pixel.
 
-Usage: ./target/rgb565 -i infile -o outfile [OPTIONS]
+Usage: rgb565 -i infile -o outfile [OPTIONS]
 
 -h --help	Display this help
 
